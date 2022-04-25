@@ -1,4 +1,5 @@
 # LMS - Könyvtárnyilvántartó rendszer és záródolgozat
+Készítette: Novák Gábor, Horváth Leticia
 
 # Elindítási útmutató 
 
