@@ -23,8 +23,8 @@ A Reactban és a WPF  kliensben is az 5001-es port van 'beégetve', így más po
 A WPF kliens futtatható a Visual Studio 2022-ből vagy telepítés után az asztalra kihelyezett parancsikonnal.
 Ehhez is szükség van a .NET 6.0-ra.
 Példa felhasználó az alkalmazásba való bejelentkezéshez:
-                                                            felhasználónév: a
-                                                            jelszó: a
+                                                            ```felhasználónév: a
+                                                            jelszó: a```
 
 # React:
 ('kiegészítő' rész a WPF-hez.)
@@ -36,5 +36,5 @@ ez letölti a szükséges packageket. A packagek sikeres telepítése után a ``
 A ```yarn install``` és a ```yarn start``` parancsok kiválthatóak az ```npm install``` és ```napm start``` parancsokkal.
 
 Ahhoz, hogy a weboldal összes funkciója használhatóvá váljon, ajánlott bejelentkezni a következő példa felhasználóval:
-                                                                                                                          felhasználónév: horvathl1@kkszki.hu
-                                                                                                                          olvasójegy száma: 438129-001
+                                                                                                                          ```felhasználónév: horvathl1@kkszki.hu
+                                                                                                                          olvasójegy száma: 438129-001```
